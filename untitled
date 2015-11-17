@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	</head>
+	<body>
+		<div id="print"></div>
+		<button id="update">updateme</button>
+		<script src='http://codepen.io/assets/libs/fullpage/jquery.js'></script>
+		<script src="./index.js"></script>
+	</body>
+</html>
